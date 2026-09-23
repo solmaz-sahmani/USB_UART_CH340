@@ -7,7 +7,7 @@ This project was created as a practical PCB design project to gain hands-on expe
 ## 📷 Board
 
 <p align="center">
-  <img src="images/board.jpg" alt="USB UART CH340 Board" width="700">
+  <img src="images/USB_UART_CH340_1.png" alt="USB UART CH340 Board" width="700">
 </p>
 
 ## 🔧 Features
